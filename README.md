@@ -19,6 +19,22 @@ and below for non entrance specified Graph
 python3 UCS.py ./NoEntrance/UK_cities.json entrance exit
 ```
 
+For Depth First Search
+```console
+python3 DFS.py ./Entrance/UK_cities.json
+```
+```console
+python3 DFS.py ./NoEntrance/UK_cities.json entrance exit
+```
+
+For Breadth First Search 
+```console
+python3 BFS.py ./Entrance/UK_cities.json
+```
+```console
+python3 BFS.py ./NoEntrance/UK_cities.json entrance exit
+```
+
 SMALL LABYRINTH
 
 ![alt text](https://github.com/AbinZorto/TreeTraversal/blob/master/Images/Small_labyrinth.png)
