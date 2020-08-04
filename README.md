@@ -18,6 +18,7 @@ and below for non entrance specified Graph
 ```console
 python3 UCS.py ./NoEntrance/UK_cities.json entrance exit
 ```
+where 'entrance' and 'exit' are specified by user
 
 For Depth First Search
 ```console
